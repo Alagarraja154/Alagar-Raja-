@@ -1,0 +1,123 @@
+
+#header
+{
+    
+    background-color: red;
+    height: 50px;
+    width: 100%;
+}
+#header ul li
+{
+   
+    padding-right: 83px;
+    float: right;
+    display: inline;
+    font-size: 30px;
+    padding-top: 10px;
+}
+#header ul li a
+{
+    color: wheat;
+    text-decoration: none;
+}
+#header ul
+{
+    color: aliceblue;
+}
+#header img
+{
+    height: 100%;
+    width: 100px;
+    float: left;
+
+}
+#content1
+{
+    margin-top: 10px;
+    background-color: rgb(203, 231, 255);
+}
+#content1 img
+{
+    height: 500px;
+    width: 40%;
+}
+#text
+{
+    float: right;
+    width: 58%;
+}
+#text h1
+{
+    color: darkorange;
+    font-style: italic;
+    font-size: 60px;
+}
+#text p
+{
+    color: rgb(175, 177, 91);
+    font-size: 50px;
+}
+#text button
+{
+    background-color: orange;
+    border-radius: 50%;
+    height: 50px;
+    width: 150px;
+    margin-left: 500px;
+    color: red;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#login
+{
+    background-image: linear-gradient(red,rgb(247, 144, 144)); 
+    height: 500px;
+    width: 700px;
+    margin: 0% auto;
+    margin-top: 100px;
+    border-radius: 50%;
+}
+#login h1
+{
+    color: blue;
+    padding-top: 100px;
+    padding-left: 300px;
+    font-size: 50px;
+}
+#login input
+{
+    margin-left: 200px;
+    background-color: rgb(21, 68, 17);
+    height: 50px;
+    font-size: 20px;
+    margin-top: 5px;
+    color: white;
+}
+#login button
+{
+    display: block;
+    margin-left: 220px;
+    height: 60px;
+    width: 200px;
+    margin-top: 20px;
+    background-color: aqua;
+    border-radius: 50%;
+}
+#i2
+{
+    background-color: rgb(138, 138, 138);
+}
+#login button a
+{
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 20px;
+}
+#bb
+{
+    a
+    {
+        text-decoration: none;
+    }
+}
